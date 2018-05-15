@@ -1,0 +1,13 @@
+{
+  "name": "node-todo-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ravinsky Yuriy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "4.16.0",
+    "mongodb": "2.2.5",
+    "mongoose": "5.1.0"
+  }
+}
